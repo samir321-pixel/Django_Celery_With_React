@@ -1,5 +1,6 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://snip-share.herokuapp.com/)&nbsp;
+[![npm][npm-image]][npm-url]
 
 <h1 align="center">Django_Celery_With_React</h1>
 
