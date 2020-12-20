@@ -59,6 +59,7 @@ npm install
 npm start
 ```
 
+# Backend Setup
 # run migrate
 
 ```bash
@@ -115,3 +116,4 @@ The project will be available at **http://localhost:3000/welcome**.
 - [Django Docs](https://docs.djangoproject.com/en/3.0/)
 - [Django Rest](https://www.django-rest-framework.org/)
 - [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
+- [Getting Started – React](https://reactjs.org/docs/getting-started.html)
