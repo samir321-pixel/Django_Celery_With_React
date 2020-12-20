@@ -22,6 +22,8 @@
 <img height="64px" width="auto" src="https://image.flaticon.com/icons/svg/919/919852.svg">
  <br/>
 <img height="64px" width="auto" src="https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-808.png">
+  <br/>
+ <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="120" alt="React Icons">
 <div/>
 
 ## Setup Instructions
