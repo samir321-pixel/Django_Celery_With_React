@@ -65,6 +65,18 @@ npm start
 ```
 
 # Backend Setup
+
+# Email Setup
+* Open File
+```bash
+Sending_Mail_Using_Celery\settings.py
+```
+* Enter Your Email details:
+```bash
+EMAIL_HOST_USER = 'yourgmail.com'
+EMAIL_HOST_PASSWORD = 'yourpassword'
+```
+
 # run migrate
 
 ```bash
