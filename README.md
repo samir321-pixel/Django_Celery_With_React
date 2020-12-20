@@ -18,18 +18,45 @@
 ## Tech Stack Involved
 <div style="display: flex;justify-content: center;">
 <img height="64px" width="auto" src="https://image.flaticon.com/icons/svg/919/919852.svg">
+ <br/>
 <img height="64px" width="auto" src="https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-808.png">
 <div/>
 
 ## Setup Instructions
 First make sure that you have the following installed.
- Python 3 and virtualenv
+ * Python 3
+ * Node.js
+ * Redis MSI
 Now do the following to setup project.
 
 First, clone the repository to your local machine:
 
 ```bash
 git clone  git@github.com:samir321-pixel/Library_with_Django_Rest.git
+```
+
+# Get Node.js from here
+```bash
+https://nodejs.org/en/
+```
+
+# Get Redis MSI from here
+```bash
+https://github.com/MicrosoftArchive/redis/releases/download/win-3.2.100/Redis-x64-3.2.100.msi
+```
+
+# React Setup:
+* Open CMD in following folder
+```bash
+\Sending_Mail_Using_Celery\frontend\
+```
+
+* Hit the following commands
+```bash
+npm install
+```
+```bash
+npm start
 ```
 
 # run migrate
@@ -55,25 +82,6 @@ celery -A Sending_Mail_Using_Celery worker -l info
 
 ```bash
 celery -A Sending_Mail_Using_Celery worker -l info
-```
-
-# Get Redis MSI from here
-```bash
-https://github.com/MicrosoftArchive/redis/releases/download/win-3.2.100/Redis-x64-3.2.100.msi
-```
-
-# React Setup:
-* Open CMD in following folder
-```bash
-\Sending_Mail_Using_Celery\frontend\
-```
-
-* Hit the following commands
-```bash
-npm install
-```
-```bash
-npm start
 ```
 
 # Done!
