@@ -76,8 +76,6 @@ npm install
 npm start
 ```
 
-
-
 # Done!
 Finally, run the development server:
 
@@ -85,14 +83,8 @@ Finally, run the development server:
 python manage.py runserver
 ```
 
-The project will be available at **127.0.0.1:8000**.
+The project will be available at **http://localhost:3000/welcome**.
 
-# run server
-To access webserver, run the following command
-
-```bash
-python manage.py runserver
-```
 ## Project Admin
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/samir321-pixel)
 
