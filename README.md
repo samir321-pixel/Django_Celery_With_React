@@ -65,7 +65,10 @@ npm start
 ```
 
 # Backend Setup
-
+# Install the requirements:
+```bash
+pip install -r requirements.txt
+```
 # Email Setup
 * Open File
 ```bash
