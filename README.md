@@ -13,7 +13,7 @@
 * Database
   * SQLite3
 * Frontend
-  *React
+  * React
   
 ## Tech Stack Involved
 <div style="display: flex;justify-content: center;">
