@@ -5,7 +5,7 @@
 <h1 align="center">Django_Celery_With_React</h1>
 
 ## Introduction
-* In this repo, I am creating simple django celery app with React using django-rest-framework.
+* In this repo, I am creating simple celery app with React using django-rest-framework.
 * It will asks you to enter your email address, subject and message, after submit button it will start sending you mail with every 1 minute of interval.
 
 ## Technology Stack
