@@ -27,7 +27,7 @@
  <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="120" alt="React Icons">
 <div/>
 
-## Setup Instructions
+## 🚀&nbsp; Setup Instructions
 First make sure that you have the following installed.
  * Python 3
  * Node.js
