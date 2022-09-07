@@ -158,7 +158,7 @@ pytest==3.10.1
 python-bidi==0.4.2
 python-crontab==2.5.1
 python-dateutil==2.8.1
-python-jwt==3.2.6
+python-jwt==3.3.4
 python3-openid==3.2.0
 pytz==2020.4
 rabbitmq==0.2.0
